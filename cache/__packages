@@ -1,0 +1,8 @@
+base
+foreign
+nlme
+lattice
+swirl
+ggplot2
+knitr
+xtable
